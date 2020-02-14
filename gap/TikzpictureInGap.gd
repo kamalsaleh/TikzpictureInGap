@@ -11,6 +11,8 @@ DeclareGlobalFunction( "AddArrow" );
 DeclareGlobalFunction( "RemoveVertex" );
 DeclareGlobalFunction( "RemoveArrow" );
 DeclareGlobalFunction( "TexCode" );
+DeclareGlobalFunction( "VTexCode" );
+
 DeclareGlobalFunction( "HelpForTikzpictureInGap" );
 
 # "options: 
